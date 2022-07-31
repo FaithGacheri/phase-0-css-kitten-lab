@@ -38,3 +38,8 @@ img {
 #basket, #ball {
   display: inline;
 }
+/* .kitty-1{ */
+  position: absolute;
+  top: 50px;
+  left: 50px;
+/* } */
